@@ -151,11 +151,13 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 *  __Output that illustrates files copying__
-    ![OUTPUT1](./img/img2.png)
+    <img width="705" height="105" alt="image" src="https://github.com/user-attachments/assets/08d5c746-31de-4623-9165-ad99dc512810" />
 
 * __Output that illustrates files locking__
 
-    ![OUTPUT2-1](./img/img3.png)
-    ![OUTPUT2-2](./img/img4.png)
+    <img width="1203" height="463" alt="image" src="https://github.com/user-attachments/assets/bfde3fa6-b877-45f0-a216-6ba04796dd3c" />
+
+    <img width="1182" height="641" alt="image" src="https://github.com/user-attachments/assets/0b7fd3a1-2be1-4323-9847-624c2621d79f" />
+
 # RESULT:
 The programs are executed successfully.
